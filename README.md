@@ -1,7 +1,5 @@
 # Pixel Pummel 8-Bit Street Fighter Game
 
-![Pixel Pummel Starting Screen](https://github.com/torilee7935/G7CapProj/blob/fundamentals/assets/backgrounds/opening.png)
-
 ## Introduction
 Welcome to Pixel Pummel, the ultimate 8-bit street fighter game that will take you on a nostalgic journey to the golden age of arcade gaming! In Pixel Pummel, you'll step into the shoes of unique fighters and test your skills and strategy against formidable opponents.
 
